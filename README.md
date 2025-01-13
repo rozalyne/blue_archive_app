@@ -1,5 +1,6 @@
 
-# Blue Archive Character App
+# DOKUMENTASI PROYEK AKHIR 
+Blue Archive Character App
 
 Aplikasi **Blue Archive Character** adalah aplikasi yang menampilkan informasi karakter-karakter dari game Blue Archive. Aplikasi ini dibangun menggunakan **Flutter** dan mengakses API untuk menampilkan data karakter.
 
